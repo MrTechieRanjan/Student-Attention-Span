@@ -1,0 +1,5 @@
+path: C:/Users/Ayush/Desktop/yolov3_project/datasets
+train: C:/Users/Ayush/Desktop/yolov3_project/datasets/train/images
+val: C:/Users/Ayush/Desktop/yolov3_project/datasets/valid/images
+nc: 2  # Number of classes (change accordingly)
+names: ['class1', 'class2']  # Change with actual class names
